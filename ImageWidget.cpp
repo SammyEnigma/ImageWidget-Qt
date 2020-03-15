@@ -11,6 +11,7 @@
 #include <QCoreApplication>
 #include <QMessageBox>
 #include <QPainter>
+#include <math.h>
 
 SelectRect::SelectRect(QWidget * parent) : QWidget(parent)
 {
